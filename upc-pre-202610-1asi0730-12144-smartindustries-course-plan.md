@@ -10,13 +10,17 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 ## Secuencia de la lección
 
 
-
-### Lección 4: Creación de página (tutorial simple) (7 minutos)
+### Lección 4: Introducción a CSS (12 minutos)
+- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+- **Enlace**: [Ver la lección](https://youtu.be/4KTnKp2MM94)
+- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: white; }`.
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/CODE-MON/pen/vEgXQzG) 👈 **¡No es necesario registrarse!**
+### Lección 5: Creación de página (tutorial simple) (7 minutos)
 - **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
 - **Enlace**: [Ver la lección](https://youtu.be/blShhDN9b1E)
 - **Consejos clave**: Crea una estructura con HTML y dale estilo con CSS.
 - **Práctica**: [Pon a prueba lo aprendido](https://codepen.io/) 👈 **¡No es necesario registrarse!**
-### Lección 5: Errores comunes y recomendaciones en el desarrollo web (5 minutos)
+### Lección 6: Errores comunes y recomendaciones en el desarrollo web (5 minutos)
 - **Descripción**: Conoce errores comunes que los desarrolladores cometen en el desarrollo web y aprende consejos para principiantes.
 - **Enlace**: [Ver la lección](https://youtu.be/B9s6MZWiwVY)
 - **Consejos clave**: Documentación, Accesibilidad, Buenas prácticas.
@@ -31,6 +35,6 @@ Período 202520
 1ASI0730 Aplicaciones Web
 NRC 12144
 **Nombre del equipo**: SmartIndustries
-**Integrantes del equipo**: Johan Karl Bottger Salazar, 
+**Integrantes del equipo**: Johan Karl Bottger Salazar, Juan David Ayllon Pauccar
 **Fecha de entrega**: 14-06-2026
 
