@@ -21,7 +21,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Enlace**: [Ver la lección](https://youtu.be/B9s6MZWiwVY)
 - **Consejos clave**: Documentación, Accesibilidad, Buenas prácticas.
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/Deskjobo/webdev-course-roffies)
+- **Código Fuente Completo**: [https://github.com/Deskjobo/webdev-course-smartindustries.git](https://github.com/Deskjobo/webdev-course-smartindustries.git)
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
