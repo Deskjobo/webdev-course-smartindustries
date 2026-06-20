@@ -1,6 +1,6 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de  minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
+Este curso de XX minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
 requiere descargas**, utiliza la herramienta en linea codepen.io.
 **Duración total**: 
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
@@ -10,6 +10,16 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 ## Secuencia de la lección
 
 
+### Lección 2: Estructura HTML Básica (7 minutos)
+- **Descripción**: Aprende la estructura básica de una página utilizando HTML
+- **Enlace**: [Ver la lección](https://youtu.be/yUSXuCQemmI)
+- **Consejos clave**: Utilizar etiquetas y atributos para crear tu primera página.
+- **Práctica**: [Crea tu primera estructura HTML](https://codepen.io/) 👈 **¡No es necesario registrarse!**
+### Lección 3: Elementos HTML comunes (7 minutos)
+- **Descripción**: Conoce los elementos más usados en HTML
+- **Enlace**: [Ver la lección]([https://youtu.be/BzxV1RAM1BI))
+- **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
+- **Práctica**: [Aplica los elementos básicos](https://codepen.io/) 👈 **¡No es necesario registrarse!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/4KTnKp2MM94)
@@ -31,10 +41,10 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
-Período 202520
+Período 202610
 1ASI0730 Aplicaciones Web
 NRC 12144
 **Nombre del equipo**: SmartIndustries
-**Integrantes del equipo**: Johan Karl Bottger Salazar, Juan David Ayllon Pauccar
-**Fecha de entrega**: 14-06-2026
+**Integrantes del equipo**: Johan Karl Bottger Salazar, Juan David Ayllon Pauccar, Imanol Fabrizio Limache Coronel
+**Fecha de entrega**: 21-06-2026
 
