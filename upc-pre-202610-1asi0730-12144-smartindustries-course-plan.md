@@ -17,7 +17,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Práctica**: [Crea tu primera estructura HTML](https://codepen.io/) 👈 **¡No es necesario registrarse!**
 ### Lección 3: Elementos HTML comunes (7 minutos)
 - **Descripción**: Conoce los elementos más usados en HTML
-- **Enlace**: [Ver la lección]([https://youtu.be/BzxV1RAM1BI))
+- **Enlace**: [Ver la lección]([https://youtu.be/BzxV1RAM1BI)
 - **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
 - **Práctica**: [Aplica los elementos básicos](https://codepen.io/) 👈 **¡No es necesario registrarse!**
 ### Lección 4: Introducción a CSS (12 minutos)
