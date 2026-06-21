@@ -1,6 +1,6 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de XX minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
+Este curso de 50 minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
 requiere descargas**, utiliza la herramienta en linea codepen.io.
 **Duración total**: 
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
