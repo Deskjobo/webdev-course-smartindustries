@@ -16,12 +16,12 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Descripción**: Aprende la estructura básica de una página utilizando HTML
 - **Enlace**: [Ver la lección](https://youtu.be/yUSXuCQemmI)
 - **Consejos clave**: Utilizar etiquetas y atributos para crear tu primera página.
-- **Práctica**: [Crea tu primera estructura HTML](https://codepen.io/) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Crea tu primera estructura HTML](https://codepen.io/Johan-Bottger/pen/rajyZwq) 👈 **¡No es necesario registrarse!**
 ### Lección 3: Elementos HTML comunes (7 minutos)
 - **Descripción**: Conoce los elementos más usados en HTML
 - **Enlace**: [Ver la lección](https://youtu.be/BzxV1RAM1BI)
 - **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
-- **Práctica**: [Aplica los elementos básicos](https://codepen.io/) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplica los elementos básicos](https://codepen.io/Johan-Bottger/pen/BypWOdW) 👈 **¡No es necesario registrarse!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/4KTnKp2MM94)
@@ -31,7 +31,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
 - **Enlace**: [Ver la lección](https://youtu.be/blShhDN9b1E)
 - **Consejos clave**: Crea una estructura con HTML y dale estilo con CSS.
-- **Práctica**: [Pon a prueba lo aprendido](https://codepen.io/) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Pon a prueba lo aprendido](https://codepen.io/Johan-Bottger/pen/KwaWxvQ) 👈 **¡No es necesario registrarse!**
 ### Lección 6: Errores comunes y recomendaciones en el desarrollo web (5 minutos)
 - **Descripción**: Conoce errores comunes que los desarrolladores cometen en el desarrollo web y aprende consejos para principiantes.
 - **Enlace**: [Ver la lección](https://youtu.be/B9s6MZWiwVY)
