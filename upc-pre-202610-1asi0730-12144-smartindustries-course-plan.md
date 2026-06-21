@@ -8,8 +8,10 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 **Herramientas necesarias**: **Navegador web** (Chrome, Firefox, Safari, Edge), **Conexion a internet**
 **📂 Repositorio de código fuente**: [https://github.com/Deskjobo/webdev-course-smartindustries.git](https://github.com/Deskjobo/webdev-course-smartindustries.git)
 ## Secuencia de la lección
-
-
+### Lección 1: Introducción al desarrollo web (5 minutos)
+- *Descripción*: Conoce los usos principales de los sitios web y una introducción básica a su estructura.
+- *Enlace*: [Ver la lección](https://youtu.be/8k-96IeQEY0)
+- *Consejos clave*: Reconocer la estructura de un sitio web, sus usos y los componentes del desarrollo web.
 ### Lección 2: Estructura HTML Básica (7 minutos)
 - **Descripción**: Aprende la estructura básica de una página utilizando HTML
 - **Enlace**: [Ver la lección](https://youtu.be/yUSXuCQemmI)
